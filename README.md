@@ -47,7 +47,7 @@
 
 ### 📊 GitHub Stats
 
-![Galley Daniel Banassim GitHub stats](https://github-readme-stats.vercel.app/api?Galley Daniel Banassim=Galley Daniel Banassim&show_icons=true&theme=radical)
+!Galley Daniel Banassim GitHub stats](https://github-readme-stats.vercel.app/api?Galley Daniel Banassim=Galley Daniel Banassim&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Galley Daniel Banassim=Galley Daniel Banassim&layout=compact&theme=radical)
 
 ---
